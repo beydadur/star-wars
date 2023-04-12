@@ -1,27 +1,4 @@
-# IMPORTANT NOTE 1:
-For each lab assignment, **you must include and sign (by writing your name and student id number) the following Pledge of Honor statement at the beginning of your main method source code file. After including this statement, make sure that you do the commit and push operation on GitHub. Otherwise, your lab solution will not be graded.**
-
-```
-/* *********** Pledge of Honor ************************************************ *
-
-I hereby certify that I have completed this lab assignment on my own
-without any help from anyone else. I understand that the only sources of authorized
-information in this lab assignment are (1) the course textbook, (2) the
-materials posted at the course website and (3) any study notes handwritten by myself.
-I have not used, accessed or received any information from any other unauthorized
-source in taking this lab assignment. The effort in the assignment thus belongs
-completely to me.
-READ AND SIGN BY WRITING YOUR NAME SURNAME AND STUDENT ID
-SIGNATURE: <Name Surname, Student id>
-********************************************************************************/
-```
-## IMPORTANT NOTE 2: After you complete the tasks, do not forget to commit your changes and push them to your repository on Github.
-
-## IMPORTANT NOTE 3: This README.md file only contains the instructions for PRELAB. You will also have INLAB questions.
-
-INLAB QUESTIONS WILL BE ANNOUNCED AT COURSE WEBSITE AT THE START OF EACH LAB: [https://sites.google.com/a/ku.edu.tr/comp132/programming-labs](https://sites.google.com/a/ku.edu.tr/comp132/programming-labs)
-
-# Lab-5 Prelab: Star Wars 
+# Star Wars 
 
 In this programming lab, you are given a scenario and a Java template project. You are asked to implement multiple classes and methods and test the correctness of your implementation by following the instructions given in the TestMain class. The main concepts in this lab are **polymorphism** related which you will practice in this assignment. The project includes two packages (starWar and test), the TestMain class is given to you in the template project. You need to implement the other types (e.g., class, superclass, subclass, abstract class, and interface) in the starWar package. Please note that we may test your codes with other test cases as well.
 
